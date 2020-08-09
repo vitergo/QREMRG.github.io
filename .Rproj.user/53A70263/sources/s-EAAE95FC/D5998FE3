@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "892804745",
+    "hash" : "0",
     "id" : "D5998FE3",
     "lastKnownWriteTime" : 1596932861,
     "last_content_update" : 1596932861,
-    "path" : "~/Sites/QREMRG/CV_VTG.Rmd",
+    "path" : "~/Sites/QREMRG.github.io/CV_VTG.Rmd",
     "project_path" : "CV_VTG.Rmd",
     "properties" : {
+        "cursorPosition" : "20,11",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
