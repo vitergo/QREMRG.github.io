@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596933432319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3726197589",
+    "id" : "90F84B29",
+    "lastKnownWriteTime" : 1596910254,
+    "last_content_update" : 1596910254,
+    "path" : "~/Sites/QREMRG/members.Rmd",
+    "project_path" : "members.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

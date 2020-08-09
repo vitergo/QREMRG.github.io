@@ -1,0 +1,17 @@
+---
+title: "Members"
+date: "8/8/2020"
+output: html_document
+---
+
+# Full Time Members
+
+- [Víctor G. Tercero-Gómez](CV_VTG.html)
+
+# Ph.D. Students
+
+- Guillermo Hernández Zamudio
+
+# Master Students
+
+- Yaneli Marisol

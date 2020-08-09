@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596933422864.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "892804745",
+    "id" : "D5998FE3",
+    "lastKnownWriteTime" : 1596932861,
+    "last_content_update" : 1596932861,
+    "path" : "~/Sites/QREMRG/CV_VTG.Rmd",
+    "project_path" : "CV_VTG.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
