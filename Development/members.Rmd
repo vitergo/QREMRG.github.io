@@ -3,10 +3,9 @@ title: "Members"
 output: html_document
 ---
 
-## Víctor G. Tercero-Gómez
+## [Víctor G. Tercero-Gómez](victortercero.html)
 
-| ![](Foto Dr Victor Tercero_20141113.jpg){width=100%} | - Institution: Tecnologico de Monterrey, Monterrey, Nuevo León, México - Keywords: statistical process Monitoring, nonparametric statistics, change-point analysis. - Pages: [Short Bio](bio_VTG.html), [FUll CV](CV_VTG.html), [Researchgate](https://www.researchgate.net/profile/Victor_Tercero_Gomez), [Google Scholar profile](https://scholar.google.com/citations?user=qqSYO2sAAAAJ&hl=es) |
-|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## [Alvaro E. Cordero-Franco](eduardocordero.html)
 
 ## Ph.D. Students
 

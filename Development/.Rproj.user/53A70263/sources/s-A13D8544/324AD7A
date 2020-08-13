@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "656059389",
+    "hash" : "0",
     "id" : "324AD7A",
-    "lastKnownWriteTime" : 1597275206,
-    "last_content_update" : 1597275206355,
+    "lastKnownWriteTime" : 1597357697,
+    "last_content_update" : 1597357697108,
     "path" : "~/Sites/QREMRG.github.io/Development/members.Rmd",
     "project_path" : "members.Rmd",
     "properties" : {
-        "cursorPosition" : "7,52",
+        "cursorPosition" : "15,16",
         "scrollLine" : "0"
     },
     "read_only" : false,

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597357643972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "414926989",
+    "id" : "FB5CFD9B",
+    "lastKnownWriteTime" : 1597357680,
+    "last_content_update" : 1597357680487,
+    "path" : "~/Sites/QREMRG.github.io/Development/eduardocordero.Rmd",
+    "project_path" : "eduardocordero.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
