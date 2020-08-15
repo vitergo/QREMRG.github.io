@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597243917848.000,
+    "created" : 1597534412608.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "324AD7A",
-    "lastKnownWriteTime" : 1597357697,
-    "last_content_update" : 1597357697108,
+    "hash" : "3593369666",
+    "id" : "F2B1B8C8",
+    "lastKnownWriteTime" : 1597534426,
+    "last_content_update" : 1597534426304,
     "path" : "~/Sites/QREMRG.github.io/Development/members.Rmd",
     "project_path" : "members.Rmd",
     "properties" : {
-        "cursorPosition" : "2,21",
+        "cursorPosition" : "9,3",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 3,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

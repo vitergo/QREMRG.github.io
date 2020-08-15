@@ -3,9 +3,9 @@ title: "Members"
 output: html_document
 ---
 
-## [Víctor G. Tercero-Gómez](victortercero.html)
+### [Víctor G. Tercero-Gómez](victortercero.html)
 
-## [Alvaro E. Cordero-Franco](eduardocordero.html)
+### [Alvaro E. Cordero-Franco](eduardocordero.html)
 
 ## Ph.D. Students
 

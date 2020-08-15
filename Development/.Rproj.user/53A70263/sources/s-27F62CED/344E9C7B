@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597357447717.000,
+    "created" : 1597534050900.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "805464269",
-    "id" : "35E37A3",
-    "lastKnownWriteTime" : 1597357544,
-    "last_content_update" : 1597357544494,
+    "hash" : "1980968141",
+    "id" : "344E9C7B",
+    "lastKnownWriteTime" : 1597534513,
+    "last_content_update" : 1597534513952,
     "path" : "~/Sites/QREMRG.github.io/Development/victortercero.Rmd",
     "project_path" : "victortercero.Rmd",
     "properties" : {
-        "cursorPosition" : "10,0",
-        "scrollLine" : "0",
+        "cursorPosition" : "47,9",
+        "scrollLine" : "28",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 5,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
