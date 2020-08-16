@@ -1,24 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597542477719.000,
+    "created" : 1597543184431.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "25CF01B",
-    "lastKnownWriteTime" : 1597541413,
-    "last_content_update" : 1597541413,
-    "path" : "~/Sites/QREMRG.github.io/Development/victortercero/index.Rmd",
+    "hash" : "3726623356",
+    "id" : "F46F7F03",
+    "lastKnownWriteTime" : 1596906897,
+    "last_content_update" : 1596906897,
+    "path" : "~/Sites/QREMRG.github.io/Development/QREMonterrey/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "38,2",
-        "scrollLine" : "7"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
