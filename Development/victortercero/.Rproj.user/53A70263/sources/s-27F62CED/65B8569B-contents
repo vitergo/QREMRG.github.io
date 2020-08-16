@@ -3,7 +3,7 @@ navbar:
   title: "V.G.T.G."
   left:
     - text: "QREMonterrey"
-      href: https://qremonterrey.org
+      href: https://qremonterrey.org/
     - text: "Resumé"
       href: CV_VTG.html
     - text: "Projects"
