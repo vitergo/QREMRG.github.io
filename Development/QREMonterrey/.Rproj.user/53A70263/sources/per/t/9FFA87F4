@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597616775436.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "988215639",
+    "id" : "9FFA87F4",
+    "lastKnownWriteTime" : 1597617436,
+    "last_content_update" : 1597617436060,
+    "path" : "~/Sites/QREMRG.github.io/Development/QREMonterrey/members.Rmd",
+    "project_path" : "members.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,45",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
