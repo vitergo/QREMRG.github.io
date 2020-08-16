@@ -1,5 +1,4 @@
 ---
-title: "Dr. Víctor G. Tercero Gómez"
 output: html_document
 ---
 
