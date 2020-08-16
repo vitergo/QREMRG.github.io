@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597592171465.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "834768866",
+    "id" : "C19A803A",
+    "lastKnownWriteTime" : 1597609447,
+    "last_content_update" : 1597609447254,
+    "path" : "~/Sites/QREMRG.github.io/Development/victortercero/research_VTG.Rmd",
+    "project_path" : "research_VTG.Rmd",
+    "properties" : {
+        "cursorPosition" : "45,399",
+        "scrollLine" : "43",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

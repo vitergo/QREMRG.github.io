@@ -6,8 +6,10 @@ navbar:
       href: https://qremonterrey.org/
     - text: "Resumé"
       href: CV_VTG.html
-    - text: "Projects"
-      href: projects_VTG.html
+    - text: "Basic Research"
+      href: research_VTG.html
+    - text: "Consulting"
+      href: consulting_VTG.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

@@ -1,0 +1,54 @@
+---
+title: "Basic Research Projects"
+output: html_document
+---
+
+
+<style>
+
+/* By default, make all images center-aligned, and 25% of the width 
+of the screen in size */
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:25%;
+}
+
+/* Create a CSS class to style images to left-align, or "float left" */
+.leftAlign
+{
+    display:inline-block;
+    float:left;
+    /* provide a 15 pixel gap between the image and the text to its right */
+    margin-right:15px; 
+}
+
+/* Create a CSS class to style images to right-align, or "float right" */
+.rightAlign
+{
+    display:inline-block;
+    float:right;
+    /* provide a 15 pixel gap between the image and the text to its left */
+    margin-left:15px;
+}
+
+</style>
+
+Specific projects come and go too often to keep the site up to date. As a consequence, only a broad overview is presented here.
+
+Main research is focused on the continuous development of statistical processs monitoring. However, I am also interested in nonparametric statistics, where the two topics are usually combined.
+
+## Statistical Process Monitoring
+
+Fostered by the Industry 4.0 movement, statistical process monitoring methods started a new era of data-driven management. Automation, sensorization and digitization are facing a reality where traditional analytical methods limit the knowledge creation process. Joining efforts with a team of professional researchers and students from different fields of engineering, mathematics, and statistics, topics in this area area include:
+
+- Monitoring methods based on a sequential normal scores transformation.
+- R packages for nonparametric monitoring.
+- Cautious learning as a strategy to improve control chart performance.
+
+## Hypothesis testing
+
+
