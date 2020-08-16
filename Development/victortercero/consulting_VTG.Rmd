@@ -1,0 +1,14 @@
+---
+title: "Consulting"
+output: html_document
+---
+
+Need help dealing with a problem in your company? Here is a list of topics I might be able to help you with:
+
+- Six Sigma Improvement projects.
+- Process optimization using design of experiments.
+- Forecasting.
+- Gage R&R analysis.
+- Capability studies.
+- SPC deployment.
+- Risk analysis.
