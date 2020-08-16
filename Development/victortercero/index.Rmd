@@ -39,7 +39,7 @@ img
 <img src="Foto Dr Victor Tercero_20141113.jpg" class="leftAlign">
   
 
-**Víctor G. Tercero-Gómez** is a professor at the School of Engineering and Science at Tecnologico de Monterrey. He received his Ph.D. in Systems and Engineering Management from Texas Tech University and his Ph.D. in Engineering Sciences from Tecnologico de Monterrey. Certified as Black Belt and Master Black Belt in Six Sigma from Tecnologico de Monterrey. He has more than 15 years of experience leading and coaching improvement projects in manufacture and service organizations using statistical quality engineering approaches. He has numerous papers in the field of statistical process monitoring, nonparametric statistics and quality engineering.
+**Víctor G. Tercero-Gómez** is a professor at the School of Engineering and Sciences at Tecnologico de Monterrey. He received his Ph.D. in Systems and Engineering Management from Texas Tech University and his Ph.D. in Engineering Sciences from Tecnologico de Monterrey. Certified as Black Belt and Master Black Belt in Six Sigma from Tecnologico de Monterrey. He has more than 15 years of experience leading and coaching improvement projects in manufacture and service organizations using statistical quality engineering approaches. He has numerous papers in the field of statistical process monitoring, nonparametric statistics and quality engineering.
 
 **Institution**: Tecnologico de Monterrey, Monterrey, Nuevo León, México
 
