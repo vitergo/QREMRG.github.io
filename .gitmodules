@@ -1,3 +1,6 @@
 [submodule "alvarocordero"]
 	path = alvarocordero
 	url = https://github.com/vitergo/alvarocordero
+[submodule "dianabarrazabza"]
+	path = dianabarrazabza
+	url = https://github.com/dbarrazabza/dianabarrazabza

@@ -7,7 +7,7 @@ output: html_document
 
 ### [Alvaro E. Cordero-Franco](/alvarocordero/index.html)
 
-### [Diana Barraza Barraza](/dianabarraza/index.html)
+### [Diana Barraza Barraza](/dianabarrazabza/index.html)
 
 ## Ph.D. Students
 
