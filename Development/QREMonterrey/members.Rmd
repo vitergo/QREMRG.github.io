@@ -9,7 +9,7 @@ output: html_document
 
 ### [Diana Barraza Barraza](/dianabarrazabza/index.html)
 
-### [William H. Woodall](/billwoodall/bio_BW.html)
+### [William H. Woodall](/billwoodall.html)
 
 ## Ph.D. Students
 
