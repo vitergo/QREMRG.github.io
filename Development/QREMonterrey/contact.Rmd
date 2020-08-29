@@ -1,0 +1,21 @@
+---
+output: html_document
+---
+
+### Coordinator:
+
+Víctor G. Tercero-Gómez (victor.tercero@tec.mx)-Ad Interim.
+
+### By university
+
+*Tecnológico de Monterrey*
+
+- Víctor G. Tercero-Gómez (victor.tercero@tec.mx)
+
+*Universidad Autónoma de Nuevo León*
+
+- Alvaro E. Cordero-Franco (alvaro.corderofr@uanl.edu.mx)
+
+*Universidad Juárez del Estado de Durango*
+
+- Diana Barraza-Barraza (dbarrazabza@gmail.com)
