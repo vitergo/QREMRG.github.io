@@ -1,5 +1,26 @@
 ---
-output: html_document
+title: "Bill Woodall"
+name: "Quality and Reliability Engineering Monterrey Research Group"
+navbar:
+  title: "QREMonterrey"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Members"
+      href: members.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/zabore
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/zabormetrics
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: cerulean
+    css: 'styles.css'
 ---
 
 <style>
